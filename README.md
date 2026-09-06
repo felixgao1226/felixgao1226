@@ -4,7 +4,7 @@ I'm a developer passionate about software engineering, machine learning, and bui
 
 ## 💻 Skills
 
-**Languages:** Java, Python, C++, Assembly, JavaScript  
+**Languages:** Java, Python, C, Julia, Assembly, JavaScript  
 **Technologies:** Machine Learning, Full-Stack Development, Data Structures & Algorithms
 
 ## 🚀 Projects
