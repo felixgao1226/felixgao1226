@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Felix Gao! 👋
 
-<!--
-**felixgao1226/felixgao1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about software engineering, machine learning, and building robust applications.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, Python, C++, Assembly, JavaScript  
+**Technologies:** Machine Learning, Full-Stack Development, Data Structures & Algorithms
+
+## 🚀 Projects
+
+- [OptimizationParameterTuning](https://github.com/felixgao1226/OptimizationParameterTuning) - ML approach for hyper-parameter tuning
+- [UnbeatableTicTacToeAI](https://github.com/felixgao1226/UnbeatableTicTacToeAI) - Minimax algorithm implementation
+- [Guitar-Hero](https://github.com/felixgao1226/Guitar-Hero) - Interactive game
+- [NGrams](https://github.com/felixgao1226/NGrams) - N-Gram analysis tool
+
+## 🔗 Connect
+
+- **LinkedIn:** [linkedin.com/in/felix-gao1226](https://www.linkedin.com/in/felix-gao1226/)
+
+---
+
+Feel free to explore my repositories and reach out to collaborate!
